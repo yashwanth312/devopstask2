@@ -2,5 +2,5 @@
 $color = "red";
 echo "Yashwanth" . $color . "<br>";
 echo "Devops Task 2" . $COLOR . "<br>";
-echo "Integration of Github , jenkins and dockers (Dockerfile)" . $coLOR . "<br>";
+echo "Integration of Github , jenkins and docker (Dockerfile)" . $coLOR . "<br>";
 ?>
